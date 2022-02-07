@@ -1,5 +1,6 @@
 ## Welcome to ClaMPiR
 [Edit](edit.html)
+[Plugins](plugins.html)
 
 ## Welcome to GitHub Pages
 
